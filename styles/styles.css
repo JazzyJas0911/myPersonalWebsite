@@ -1,24 +1,19 @@
 body {
-    text-align: center;
-    background-color:  	#B0C4DE;
+    text-align: left;
     margin-left: 50px;
     margin-right: 50px;
   } 
-  
-div {
-    margin-top: 15px;
-}
-
-p {
-    text-align: left;
-}
 
 a {
     color:#0645AD;
 }
 
-h2{
-    text-align: left;
+li{
+    margin-left: 5%;
+}
+
+h1, h2{
+    text-align: center;
 }
   
 * {box-sizing: border-box}
